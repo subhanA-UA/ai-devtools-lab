@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-09-02T21:42:09.888Z",
+  "tools": [
+    {
+      "repo": "subhanA-UA/context-scout-ai",
+      "url": "https://github.com/subhanA-UA/context-scout-ai",
+      "stars": 0,
+      "forks": 0,
+      "issues": 0,
+      "latestRelease": "v0.2.0",
+      "updatedAt": "2026-09-02T21:41:50Z",
+      "topics": [
+        "ai",
+        "cli",
+        "coding-agent",
+        "context-engineering",
+        "developer-tools",
+        "llm",
+        "prompt-engineering"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-09-02",
+    "repo": "subhanA-UA/context-scout-ai",
+    "niche": "context engineering",
+    "hypothesis": "Developers will star a tiny CLI if the promise is clear: stop pasting messy repo context into AI coding agents.",
+    "channels": [
+      {
+        "name": "GitHub README",
+        "message": "One command to brief your AI coding agent before it touches your repo.",
+        "status": "active"
+      },
+      {
+        "name": "X",
+        "message": "Built a tiny CLI that turns any repo into a ranked, token-budgeted brief for coding agents.",
+        "status": "planned"
+      },
+      {
+        "name": "Reddit",
+        "message": "Useful demo for AI-assisted coding workflows, posted only where self-promotion is allowed.",
+        "status": "planned"
+      }
+    ],
+    "metrics": {
+      "stars24h": 0,
+      "stars7d": 0,
+      "forks": 0,
+      "issues": 0,
+      "demoVisits": null
+    },
+    "learning": "Initial launch. Need to test whether context-engineering phrasing or token-saving phrasing converts better."
+  }
+]
+
