@@ -9,11 +9,26 @@
     "problem": "AI coding agents waste time and tokens when developers paste messy repo context.",
     "useCase": "Run one command before asking an agent to understand, debug, or change a codebase.",
     "install": "node dist/index.js --path . --focus cli,agent --output CONTEXT_SCOUT.md",
-    "status": "v0.2.0",
+    "status": "v0.3.0",
     "license": "MIT",
     "niche": "context engineering",
     "channels": ["GitHub", "X", "Reddit", "Hacker News"],
     "topics": ["ai", "developer-tools", "cli", "llm", "coding-agent", "context-engineering"]
+  },
+  {
+    "name": "Agent Ready Kit",
+    "slug": "agent-ready-kit",
+    "repo": "subhanA-UA/agent-ready-kit",
+    "url": "https://github.com/subhanA-UA/agent-ready-kit",
+    "demo": "https://subhana-ua.github.io/agent-ready-kit/",
+    "tagline": "Audit any repo for AI coding-agent readiness.",
+    "problem": "Most repos do not tell AI agents how to set up, test, change, or safely contribute.",
+    "useCase": "Run it before using Codex, Claude Code, Cursor, Gemini CLI, or another coding agent on a repo.",
+    "install": "node dist/index.js --path . --output AGENT_READY.md",
+    "status": "v0.1.0",
+    "license": "MIT",
+    "niche": "agent readiness",
+    "channels": ["GitHub", "X", "Reddit", "Hacker News"],
+    "topics": ["ai", "developer-tools", "coding-agent", "agents", "context-engineering", "repo-audit"]
   }
 ]
-

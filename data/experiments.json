@@ -29,6 +29,36 @@
       "demoVisits": null
     },
     "learning": "Initial launch. Need to test whether context-engineering phrasing or token-saving phrasing converts better."
+  },
+  {
+    "date": "2026-09-07",
+    "repo": "subhanA-UA/agent-ready-kit",
+    "niche": "agent readiness",
+    "hypothesis": "Developers will star a repo-audit CLI if it gives them a score and a generated AGENTS.md starter they can use immediately.",
+    "channels": [
+      {
+        "name": "GitHub README",
+        "message": "Make your repo easier for AI coding agents in one command.",
+        "status": "active"
+      },
+      {
+        "name": "AI Devtools Lab",
+        "message": "Listed as the most immediately actionable repo-readiness tool.",
+        "status": "active"
+      },
+      {
+        "name": "X",
+        "message": "Built a tiny CLI that scores whether your repo is ready for AI coding agents and generates AGENTS.md.",
+        "status": "planned"
+      }
+    ],
+    "metrics": {
+      "stars24h": 0,
+      "stars7d": 0,
+      "forks": 0,
+      "issues": 0,
+      "demoVisits": null
+    },
+    "learning": "Testing whether a score/checklist hook converts better than a context-brief hook."
   }
 ]
-
