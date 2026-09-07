@@ -2,13 +2,20 @@
 
 Small AI dev tools that save real engineering time.
 
+[![CI](https://github.com/subhanA-UA/ai-devtools-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/subhanA-UA/ai-devtools-lab/actions/workflows/ci.yml)
+[![GitHub stars](https://img.shields.io/github/stars/subhanA-UA/ai-devtools-lab?style=social)](https://github.com/subhanA-UA/ai-devtools-lab/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 This is a public hub for useful coding-agent utilities: context briefs, token-saving workflows, repo intelligence, and fast experiments that developers can run today.
+
+If the hub helps you discover a useful AI dev tool, [star it](https://github.com/subhanA-UA/ai-devtools-lab/stargazers) so the next tool is easier to find.
 
 ## Tools
 
 | Tool | Use Case | Repo |
 | --- | --- | --- |
 | Context Scout AI | Generate compact, ranked repo briefs for AI coding agents. | https://github.com/subhanA-UA/context-scout-ai |
+| Agent Ready Kit | Audit any repo for AI coding-agent readiness and generate AGENTS.md. | https://github.com/subhanA-UA/agent-ready-kit |
 
 ## Star Growth System
 
@@ -45,4 +52,3 @@ open docs/index.html
 ## License
 
 MIT
-

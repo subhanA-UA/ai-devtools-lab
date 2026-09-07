@@ -1,6 +1,6 @@
 {
   "name": "ai-devtools-lab",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "A public hub for small AI developer tools that save time, context, and setup work.",
   "author": "Subhan Ahmed <https://github.com/subhanA-UA>",
   "license": "MIT",
@@ -20,4 +20,3 @@
     "open-source"
   ]
 }
-
