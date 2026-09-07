@@ -350,6 +350,7 @@ function renderToolCard(tool) {
       <a class="small-button star" href="${tool.url}/stargazers">Star on GitHub</a>
       <a class="small-button" href="${tool.url}">Repo</a>
       <a class="small-button" href="${tool.demo}">Demo</a>
+      ${tool.discussion ? `<a class="small-button" href="${tool.discussion}">Discuss</a>` : ""}
       <a class="small-button" href="${tool.url}/issues/new/choose">Feedback</a>
     </div>
   </article>`;

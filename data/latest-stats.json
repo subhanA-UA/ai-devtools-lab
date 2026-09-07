@@ -1,32 +1,14 @@
 {
-  "generatedAt": "2026-09-07T18:06:10.422Z",
+  "generatedAt": "2026-09-07T18:15:50.907Z",
   "tools": [
-    {
-      "repo": "subhanA-UA/context-scout-ai",
-      "url": "https://github.com/subhanA-UA/context-scout-ai",
-      "stars": 0,
-      "forks": 0,
-      "issues": 0,
-      "latestRelease": "v0.3.0",
-      "updatedAt": "2026-09-07T17:52:28Z",
-      "topics": [
-        "ai",
-        "cli",
-        "coding-agent",
-        "context-engineering",
-        "developer-tools",
-        "llm",
-        "prompt-engineering"
-      ]
-    },
     {
       "repo": "subhanA-UA/agent-ready-kit",
       "url": "https://github.com/subhanA-UA/agent-ready-kit",
       "stars": 0,
       "forks": 0,
-      "issues": 0,
-      "latestRelease": "v0.1.0",
-      "updatedAt": "2026-09-07T17:52:44Z",
+      "issues": 2,
+      "latestRelease": "v0.1.1",
+      "updatedAt": "2026-09-07T18:07:13Z",
       "topics": [
         "agents",
         "ai",
@@ -36,6 +18,24 @@
         "developer-tools",
         "productivity",
         "repo-audit"
+      ]
+    },
+    {
+      "repo": "subhanA-UA/context-scout-ai",
+      "url": "https://github.com/subhanA-UA/context-scout-ai",
+      "stars": 0,
+      "forks": 0,
+      "issues": 2,
+      "latestRelease": "v0.3.1",
+      "updatedAt": "2026-09-07T18:07:36Z",
+      "topics": [
+        "ai",
+        "cli",
+        "coding-agent",
+        "context-engineering",
+        "developer-tools",
+        "llm",
+        "prompt-engineering"
       ]
     }
   ]

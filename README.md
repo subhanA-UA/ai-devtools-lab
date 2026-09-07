@@ -14,8 +14,10 @@ If the hub helps you discover a useful AI dev tool, [star it](https://github.com
 
 | Tool | Use Case | Repo |
 | --- | --- | --- |
-| Context Scout AI | Generate compact, ranked repo briefs for AI coding agents. | https://github.com/subhanA-UA/context-scout-ai |
 | Agent Ready Kit | Audit any repo for AI coding-agent readiness and generate AGENTS.md. | https://github.com/subhanA-UA/agent-ready-kit |
+| Context Scout AI | Generate compact, ranked repo briefs for AI coding agents. | https://github.com/subhanA-UA/context-scout-ai |
+
+Start here: **Agent Ready Kit** has the clearest first-use hook right now: make your repo ready for AI coding agents in one command.
 
 ## Star Growth System
 
