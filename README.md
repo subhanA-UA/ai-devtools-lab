@@ -14,10 +14,11 @@ If the hub helps you discover a useful AI dev tool, [star it](https://github.com
 
 | Tool | Use Case | Repo |
 | --- | --- | --- |
-| Agent Ready Kit | Audit any repo for AI coding-agent readiness and generate AGENTS.md. | https://github.com/subhanA-UA/agent-ready-kit |
+| Agent Ready Kit | Audit any repo for AI coding-agent readiness and generate readiness receipts. | https://github.com/subhanA-UA/agent-ready-kit |
+| Agent Diff Sentinel | Review git diffs for AI-agent risk before a PR lands. | https://github.com/subhanA-UA/agent-diff-sentinel |
 | Context Scout AI | Generate compact, ranked repo briefs for AI coding agents. | https://github.com/subhanA-UA/context-scout-ai |
 
-Start here: **Agent Ready Kit** has the clearest first-use hook right now: make your repo ready for AI coding agents in one command.
+Start here: **Agent Ready Kit** checks the repo before an agent works; **Agent Diff Sentinel** checks the diff before humans merge it.
 
 ## Star Growth System
 

@@ -32,5 +32,22 @@
     "niche": "context engineering",
     "channels": ["GitHub", "X", "Reddit", "Hacker News"],
     "topics": ["ai", "developer-tools", "cli", "llm", "coding-agent", "context-engineering"]
+  },
+  {
+    "name": "Agent Diff Sentinel",
+    "slug": "agent-diff-sentinel",
+    "repo": "subhanA-UA/agent-diff-sentinel",
+    "url": "https://github.com/subhanA-UA/agent-diff-sentinel",
+    "demo": "https://subhana-ua.github.io/agent-diff-sentinel/",
+    "discussion": "https://github.com/subhanA-UA/agent-diff-sentinel/issues",
+    "tagline": "Review git diffs for AI-agent risk before a PR lands.",
+    "problem": "AI-assisted PRs can touch auth, billing, secrets, dependencies, and tests faster than reviewers can triage the risky parts.",
+    "useCase": "Run it on an agent-written diff before merge to get a focused review report and blocker signal.",
+    "install": "git diff main...HEAD | npx agent-diff-sentinel --markdown",
+    "status": "v0.1.0",
+    "license": "MIT",
+    "niche": "AI PR review",
+    "channels": ["GitHub", "X", "Reddit", "Dev.to"],
+    "topics": ["ai", "developer-tools", "code-review", "git-diff", "coding-agent", "cli"]
   }
 ]

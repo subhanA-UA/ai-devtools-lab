@@ -28,10 +28,9 @@ for (const tool of tools) {
     issues: repo.issues.totalCount,
     latestRelease: repo.latestRelease?.tagName ?? null,
     updatedAt: repo.updatedAt,
-    topics: repo.repositoryTopics.map((topic) => topic.name)
+    topics: (repo.repositoryTopics ?? []).map((topic) => topic.name)
   });
 }
 
 writeFileSync("data/latest-stats.json", `${JSON.stringify(snapshot, null, 2)}\n`);
 console.log(`Wrote data/latest-stats.json with ${snapshot.tools.length} repos.`);
-

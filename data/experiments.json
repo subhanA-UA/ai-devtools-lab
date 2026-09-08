@@ -60,5 +60,41 @@
       "demoVisits": null
     },
     "learning": "Testing whether a score/checklist hook converts better than a context-brief hook."
+  },
+  {
+    "date": "2026-09-09",
+    "repo": "subhanA-UA/agent-diff-sentinel",
+    "niche": "AI PR review",
+    "hypothesis": "Developers will star a lightweight diff scanner if the hook is concrete: do not rubber-stamp AI-written diffs.",
+    "channels": [
+      {
+        "name": "GitHub README",
+        "message": "Do not rubber-stamp AI-written diffs.",
+        "status": "active"
+      },
+      {
+        "name": "AI Devtools Lab",
+        "message": "Listed as the after-agent quality gate next to Agent Ready Kit.",
+        "status": "active"
+      },
+      {
+        "name": "X",
+        "message": "Built a tiny CLI that turns an AI-written PR diff into a risk report before merge.",
+        "status": "planned"
+      },
+      {
+        "name": "Reddit",
+        "message": "Share in allowed AI-assisted coding/product threads with a concrete review-safety angle.",
+        "status": "planned"
+      }
+    ],
+    "metrics": {
+      "stars24h": 0,
+      "stars7d": 0,
+      "forks": 0,
+      "issues": 0,
+      "demoVisits": null
+    },
+    "learning": "Initial launch. Test whether PR-risk/review-safety positioning converts better than repo-readiness positioning."
   }
 ]
